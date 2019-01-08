@@ -1,0 +1,73 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.useExperimentalFileWatcher": true,
+  "editor.trimAutoWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "window.zoomLevel": 0,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "editor.fontSize": 14,
+  "debug.allowBreakpointsEverywhere": true,
+  "debug.inlineValues": true,
+
+  "python.pythonPath": "python3",
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "python.jediEnabled": false,
+  "python.unitTest.pyTestEnabled": true,
+  "python.unitTest.unittestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false,
+
+  "docker.attachShellCommand.linuxContainer": "/bin/bash",
+
+  "[html]": {
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.tabSize": 2
+  },
+
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ],
+  "eslint.options": {
+    "configFile": ".eslintrc.js"
+  },
+
+  "solidity.linter": "solhint",
+  "solidity.solhintRules": {
+    "avoid-sha3": "warn",
+    "indent": [
+      "warn",
+      2
+    ]
+  },
+  "[solidity]": {
+    "editor.tabSize": 2
+  }
+}
+
+
