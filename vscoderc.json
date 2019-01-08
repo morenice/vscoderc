@@ -1,15 +1,20 @@
 {
   "files.autoSave": "afterDelay",
   "files.useExperimentalFileWatcher": true,
-  "editor.trimAutoWhitespace": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  "window.zoomLevel": 0,
+
+  "editor.trimAutoWhitespace": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": false,
   "editor.fontSize": 14,
+
+  "window.zoomLevel": 0,
+
   "debug.allowBreakpointsEverywhere": true,
   "debug.inlineValues": true,
+
+  "terminal.integrated.scrollback": 10000000000,
 
   "python.pythonPath": "python3",
   "python.linting.enabled": true,
