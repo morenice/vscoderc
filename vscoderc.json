@@ -43,6 +43,9 @@
     "editor.tabSize": 2
   },
 
+  "[vue]": {
+    "editor.tabSize": 2
+  },
   "eslint.autoFixOnSave": true,
   "eslint.validate": [
     {
