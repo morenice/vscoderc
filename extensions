@@ -1,5 +1,7 @@
 abusaidm.html-snippets
 alefragnani.Bookmarks
+almenon.arepl
+azaugg.vscode-python-docstring
 batisteo.vscode-django
 bibhasdn.django-html
 bibhasdn.django-snippets
@@ -10,8 +12,8 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 donjayamanne.jupyter
 donjayamanne.python-extension-pack
+eamodio.gitlens
 ecmel.vscode-html-css
-EditorConfig.EditorConfig
 eg2.vscode-npm-script
 eriklynd.json-tools
 esbenp.prettier-vscode
@@ -19,12 +21,13 @@ formulahendry.code-runner
 henriiik.docker-linter
 JuanBlanco.solidity
 magicstack.MagicPython
+ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ko
+ms-kubernetes-tools.vscode-kubernetes-tools
 ms-python.python
 ms-vscode.cpptools
-ms-vsliveshare.vsliveshare
 octref.vetur
-PeterJausovec.vscode-docker
+redhat.vscode-yaml
 sdras.night-owl
 sdras.vue-vscode-extensionpack
 sdras.vue-vscode-snippets
