@@ -1,5 +1,9 @@
 # vscoderc
-Visual studio code tools configuration and extensions for c/c++ and python development
+Visual studio code tools configuration and extensions
+ - c/c++
+ - python
+ - javascript
+ - go
 
 # configuration
 See ```vscoderc``` file
@@ -21,3 +25,4 @@ Make extensions file
 ```
 code --list-extensions > extensions
 ```
+

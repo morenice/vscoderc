@@ -1,7 +1,6 @@
 abusaidm.html-snippets
 alefragnani.Bookmarks
 almenon.arepl
-azaugg.vscode-python-docstring
 batisteo.vscode-django
 bibhasdn.django-html
 bibhasdn.django-snippets
@@ -18,14 +17,16 @@ eg2.vscode-npm-script
 eriklynd.json-tools
 esbenp.prettier-vscode
 formulahendry.code-runner
-henriiik.docker-linter
-JuanBlanco.solidity
+golang.go
 magicstack.MagicPython
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-ko
 ms-kubernetes-tools.vscode-kubernetes-tools
 ms-python.python
+ms-python.vscode-pylance
+ms-vscode-remote.remote-containers
 ms-vscode.cpptools
+msjsdiag.debugger-for-chrome
 octref.vetur
 redhat.vscode-yaml
 sdras.night-owl
