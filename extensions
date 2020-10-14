@@ -3,7 +3,6 @@ alefragnani.Bookmarks
 almenon.arepl
 batisteo.vscode-django
 bibhasdn.django-html
-bibhasdn.django-snippets
 christian-kohler.npm-intellisense
 CoenraadS.bracket-pair-colorizer
 cstrap.flask-snippets
@@ -27,7 +26,14 @@ ms-python.vscode-pylance
 ms-vscode-remote.remote-containers
 ms-vscode.cpptools
 msjsdiag.debugger-for-chrome
+naco-siren.gradle-language
 octref.vetur
+Pivotal.vscode-boot-dev-pack
+Pivotal.vscode-concourse
+Pivotal.vscode-manifest-yaml
+Pivotal.vscode-spring-boot
+redhat.java
+redhat.vscode-xml
 redhat.vscode-yaml
 sdras.night-owl
 sdras.vue-vscode-extensionpack
@@ -35,6 +41,12 @@ sdras.vue-vscode-snippets
 sysoev.language-stylus
 tombonnike.vscode-status-bar-format-toggle
 VisualStudioExptTeam.vscodeintellicode
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-spring-boot-dashboard
+vscjava.vscode-spring-initializr
 wholroyd.jinja
 wmaurer.vscode-jumpy
 xabikos.JavaScriptSnippets
