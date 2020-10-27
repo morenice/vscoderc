@@ -16,6 +16,7 @@ eg2.vscode-npm-script
 eriklynd.json-tools
 esbenp.prettier-vscode
 formulahendry.code-runner
+GabrielBB.vscode-lombok
 golang.go
 magicstack.MagicPython
 ms-azuretools.vscode-docker
@@ -45,6 +46,7 @@ vscjava.vscode-java-debug
 vscjava.vscode-java-dependency
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
+vscjava.vscode-maven
 vscjava.vscode-spring-boot-dashboard
 vscjava.vscode-spring-initializr
 wholroyd.jinja
