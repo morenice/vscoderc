@@ -1,7 +1,13 @@
+Visual Studio Code offers "Settings Sync" so this repo is deprecated.
+- https://code.visualstudio.com/docs/editor/settings-sync
+
+
+
 # vscoderc
 Visual studio code tools configuration and extensions
  - c/c++
  - python
+ - java
  - javascript
  - go
 
