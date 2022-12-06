@@ -7,7 +7,6 @@ Visual Studio Code offers "Settings Sync" so this repo is deprecated.
 Visual studio code tools configuration and extensions
  - c/c++
  - python
- - java
  - javascript
  - go
 
